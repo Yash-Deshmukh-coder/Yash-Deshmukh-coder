@@ -1,17 +1,16 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Yash Deshmukh
+**A passionate about cybersecurity and java full-stack developer from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **theyashdeshmukh15@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** HoneyWord Trap Tool
+- 🌱 **I’m currently learning:** Cybersecurity | java-fullstack
+- 👯 **I’m looking to collaborate on:** ThreatLogger ( A lightweight cybersecurity tool that helps in logging, monitoring, and analyzing potential threats.)
+- 🤔 **I’m looking for help with:** Collaborations on Open Source Projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** Yash Deshmukh
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6KesurZx)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_deshmukh_x) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@YASHDESHMUKH158) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theyashdeshmukh15@gmail.com) 
